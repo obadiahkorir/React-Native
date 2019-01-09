@@ -1,0 +1,3 @@
+rootProject.name = 'REACT'
+
+include ':app'
